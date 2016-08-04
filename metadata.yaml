@@ -1,0 +1,47 @@
+_repo: The-Innocents-Abroad_3176
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3176/3176-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "The Innocents Abroad, or The New Pilgrims' Progress is a travel book\
+  \ by American author Mark Twain, published in 1869, which humorously chronicles\
+  \ what Twain called his \"Great Pleasure Excursion\" on board the chartered vessel\
+  \ Quaker City (formerly USS Quaker City), through Europe and the Holy Land, with\
+  \ a group of American travelers in 1867. It was the best-selling of Twain's works\
+  \ during his lifetime, as well as one of the best-selling travel books of all time.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3176'
+  wikidata: Q1211101
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Middle East -- Description and travel'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Europe -- Description and travel'
+- GITenberg
+title: The Innocents Abroad
+url: http://www.gutenberg.org/ebooks/3176
+wikipedia:
+- https://de.wikipedia.org/wiki/Die_Arglosen_im_Ausland
+- https://en.wikipedia.org/wiki/The_Innocents_Abroad
+- https://commons.wikimedia.org/wiki/Category:The_Innocents_Abroad
+- https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A2_%D7%AA%D7%A2%D7%A0%D7%95%D7%92%D7%95%D7%AA_%D7%9C%D7%90%D7%A8%D7%A5_%D7%94%D7%A7%D7%95%D7%93%D7%A9
