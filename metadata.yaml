@@ -1,10 +1,8 @@
 _repo: The-Innocents-Abroad_3176
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3176/3176-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3176-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -23,6 +21,8 @@ description: "The Innocents Abroad, or The New Pilgrims' Progress is a travel bo
   \ a group of American travelers in 1867. It was the best-selling of Twain's works\
   \ during his lifetime, as well as one of the best-selling travel books of all time.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3176#The-Innocents-Abroad
 gutenberg_issued: '2004-06-22'
 gutenberg_type: Text
 identifiers:
